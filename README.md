@@ -21,7 +21,7 @@ We use **ESP32-CAM module** as a main hardware component in our project. **ESP32
 
 ## Our project consists of two parts
 ### PART 1, Door lock using face Regognition
-we used video streaming web page to detect the faces. After uploadin the face recognition door lock code to esp32-CAM. you will get an IP adress in serial monitor, copy this IP to your browser and you will get a video streaming web page: 
+we used video streaming web page to detect the faces. After uploading the face recognition door lock code to esp32-CAM. you will get an IP adress in serial monitor, copy this IP to your browser and you will get a video streaming web page: 
 
 ![ESP32-CAM-Testing](https://github.com/somia76/IOT-Smart-Locking-System/assets/96308502/e1c9844b-36b5-41cd-9d8d-dfd6fec7eb4f)
 
